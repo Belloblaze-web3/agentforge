@@ -1,0 +1,26 @@
+# Node
+node_modules/
+dist/
+build/
+.next/
+.turbo/
+coverage/
+*.tsbuildinfo
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and local artifacts
+*.log
+coverage/
